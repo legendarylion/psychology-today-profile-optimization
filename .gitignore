@@ -1,0 +1,16 @@
+# Generated client deliverables (regenerate from the .md with tools/build_docx.py)
+*.docx
+
+# Microsoft Office lock/owner temp files
+~$*
+
+# Windows download metadata (Mark of the Web)
+*:Zone.Identifier
+
+# Python
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
+Thumbs.db

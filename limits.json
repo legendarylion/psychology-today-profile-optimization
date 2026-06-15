@@ -1,0 +1,18 @@
+{
+  "source": "https://reframepractice.com/answers/psychology-today/best-psychology-today-profiles",
+  "confirmed": "April 2026 version of the guide",
+  "search_preview_chars": 270,
+  "total_personal_statement_cap": 1360,
+  "safe_target_ratio": 0.8,
+  "fields": [
+    { "key": "box1",         "label": "What can I help you with?", "section": "Part 1 - Ideal Client",        "limit": 640 },
+    { "key": "box2",         "label": "What's my approach?",       "section": "Part 2 - Approach",            "limit": 360 },
+    { "key": "box3",         "label": "About me",                  "section": "Part 3 - Authority + CTA",     "limit": 360 },
+    { "key": "intro",        "label": "Intro to new clients",      "section": "Intro",                        "limit": 140 },
+    { "key": "finance",      "label": "Note on Finance",           "section": "Finances",                     "limit": 300 },
+    { "key": "credentials",  "label": "Note on Credentials",       "section": "Qualifications",               "limit": 300 },
+    { "key": "specialties",  "label": "Note on Top Specialties",   "section": "Specialties & Expertise",      "limit": 400 },
+    { "key": "therapy_types","label": "Note on Therapy Types",     "section": "Treatment Approach",           "limit": 400 },
+    { "key": "tagline",      "label": "Tagline",                   "section": "Tagline",                      "limit": 160 }
+  ]
+}
